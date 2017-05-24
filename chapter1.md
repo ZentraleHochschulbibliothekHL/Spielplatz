@@ -1,4 +1,4 @@
-# GitBook
+* # GitBook
 
 ### 1. Dokument anlegen
 
@@ -16,9 +16,9 @@
 
 es werden auomatisch diese Seiten angelegt:
 
-Introduction
+* Introduction
 
-First Chapter
+* First Chapter
 
 Diese können bearbeitet und weitere Kapitel hinzugefügt werden.
 
