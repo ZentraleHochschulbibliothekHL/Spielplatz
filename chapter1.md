@@ -1,6 +1,6 @@
-# GitBook
+# 1 GitBook
 
-### 1. Dokument anlegen
+### 1.1 Dokument anlegen
 
 * Vorlage auswählen, z.B. _Book & Manual_
 
@@ -12,7 +12,7 @@
 
 ![](/assets/createBook.png)
 
-### 2. Dokument bearbeiten
+### 1.2 Dokument bearbeiten
 
 es werden automatisch diese Seiten angelegt:
 
@@ -23,4 +23,6 @@ es werden automatisch diese Seiten angelegt:
 Diese können bearbeitet und weitere Kapitel hinzugefügt werden.
 
 ![](/assets/bearbeiten.png)
+
+Der Kapitelname wird nicht automatisch aus der H1-Überschrift der betreffenden Seite übernommen.
 
