@@ -10,7 +10,7 @@
 
 --&gt; Create Book
 
-![](/assets/import.png)
+![](/assets/createBook.png)
 
 ### 2. Dokument bearbeiten
 
@@ -23,6 +23,4 @@ First Chapter
 Diese können bearbeitet und weitere Kapitel hinzugefügt werden.
 
 ![](/assets/bearbeiten.png)
-
-
 
