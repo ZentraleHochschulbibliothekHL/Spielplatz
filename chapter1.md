@@ -14,7 +14,7 @@
 
 ### 2. Dokument bearbeiten
 
-es werden auomatisch diese Seiten angelegt:
+es werden automatisch diese Seiten angelegt:
 
 * Introduction
 
