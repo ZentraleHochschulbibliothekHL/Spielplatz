@@ -1,3 +1,28 @@
-# First Chapter
+# GitBook
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 1. Dokument anlegen
+
+* Vorlage auswählen, z.B. _Book & Manual_
+
+* \(Kurz-\)Titel eingeben
+
+* Beschreibung eingeben \(optional\)
+
+--&gt; Create Book
+
+![](/assets/import.png)
+
+### 2. Dokument bearbeiten
+
+es werden auomatisch diese Seiten angelegt:
+
+Introduction
+
+First Chapter
+
+Diese können bearbeitet und weitere Kapitel hinzugefügt werden.
+
+![](/assets/bearbeiten.png)
+
+
+
