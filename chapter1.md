@@ -1,4 +1,4 @@
-* # GitBook
+# GitBook
 
 ### 1. Dokument anlegen
 
